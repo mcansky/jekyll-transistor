@@ -2,9 +2,11 @@
 
 ## Usage: 
 
+```
 {% transistor_sound 8eea9221 %}
 {% soundcloud_sound 8eea9221 light %}
 {% soundcloud_sound 8eea9221 dark %}
+```
 
 ... where 8eea9221 is the SoundCloud sound ID, light/dark is the color.
 
